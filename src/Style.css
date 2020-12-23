@@ -100,6 +100,13 @@ a:hover, a:active {
     cursor: grab;
 }
 
+.text {
+    position: fixed;
+    top:-15%;
+    left:5%;
+    width: 100vw;
+}
+
 
 
 /*Margins*/

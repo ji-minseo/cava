@@ -7,6 +7,7 @@ import Obj from "./components/Obj";
 
 class App extends React.Component {
   componentDidMount() {
+    // document.getElementsByTagName("body")[0].style.backgroundImage = 'url(/bg.png)';
     this.random();
   }
   random() {
@@ -47,6 +48,7 @@ class App extends React.Component {
     
         <a href="/cava/"><div className="title fs-h2"><img src={process.env.PUBLIC_URL + '/cava.svg'}/></div></a>
       
+      <div className="text"><img src={process.env.PUBLIC_URL + '/bg.svg'}/></div>
       <section className ="letter-right mg-nav">
       <h3 className="nav fs-base fw-light">onlineshowroom</h3>
 
@@ -70,7 +72,7 @@ class App extends React.Component {
       <Obj name="/11.png"/>
       <Obj name="/12.png"/>
 
-      <Obj name="/13.png"/>
+      {/* <Obj name="/13.png"/> */}
       <Obj name="/14.png"/>
       <Obj name="/15.png"/>
       <Obj name="/16.png"/>
@@ -86,6 +88,7 @@ class App extends React.Component {
       <Obj name="/26.png"/>
       <Obj name="/27.png"/>
       <Obj name="/28.png"/>
+      <Obj name="/29.png"/>
       
       
       </div>)

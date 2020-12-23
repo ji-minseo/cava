@@ -58,35 +58,37 @@ class App extends React.Component {
       </section>
 
 
-      <Obj name="01.png"/>
-      <Obj name="02.png"/>
-      <Obj name="03.png"/>
-      <Obj name="04.png"/>
-      <Obj name="05.png"/>
-      <Obj name="06.png"/>
-      <Obj name="07.png"/>
-      <Obj name="08.png"/>
-      <Obj name="09.png"/>
-      <Obj name="10.png"/>
-      <Obj name="11.png"/>
-      <Obj name="12.png"/>
 
-      <Obj name="13.png"/>
-      <Obj name="14.png"/>
-      <Obj name="15.png"/>
-      <Obj name="16.png"/>
-      <Obj name="17.png"/>
-      <Obj name="18.png"/>
-      <Obj name="19.png"/>
-      <Obj name="20.png"/>
-      <Obj name="21.png"/>
-      <Obj name="22.png"/>
-      <Obj name="23.png"/>
-      <Obj name="24.png"/>
-      <Obj name="25.png"/>
-      <Obj name="26.png"/>
-      <Obj name="27.png"/>
-      <Obj name="28.png"/>
+
+      <Obj name="/01.png"/>
+      <Obj name="/02.png"/>
+      <Obj name="/03.png"/>
+      <Obj name="/04.png"/>
+      <Obj name="/05.png"/>
+      <Obj name="/06.png"/>
+      <Obj name="/07.png"/>
+      <Obj name="/08.png"/>
+      <Obj name="/09.png"/>
+      <Obj name="/10.png"/>
+      <Obj name="/11.png"/>
+      <Obj name="/12.png"/>
+
+      <Obj name="/13.png"/>
+      <Obj name="/14.png"/>
+      <Obj name="/15.png"/>
+      <Obj name="/16.png"/>
+      <Obj name="/17.png"/>
+      <Obj name="/18.png"/>
+      <Obj name="/19.png"/>
+      <Obj name="/20.png"/>
+      <Obj name="/21.png"/>
+      <Obj name="/22.png"/>
+      <Obj name="/23.png"/>
+      <Obj name="/24.png"/>
+      <Obj name="/25.png"/>
+      <Obj name="/26.png"/>
+      <Obj name="/27.png"/>
+      <Obj name="/28.png"/>
       
       
       </div>)

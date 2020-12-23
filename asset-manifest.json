@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cava/static/css/main.e87404cb.chunk.css",
-    "main.js": "/cava/static/js/main.907140c9.chunk.js",
-    "main.js.map": "/cava/static/js/main.907140c9.chunk.js.map",
+    "main.js": "/cava/static/js/main.6ada2d78.chunk.js",
+    "main.js.map": "/cava/static/js/main.6ada2d78.chunk.js.map",
     "runtime-main.js": "/cava/static/js/runtime-main.8923fc59.js",
     "runtime-main.js.map": "/cava/static/js/runtime-main.8923fc59.js.map",
     "static/js/2.61de0490.chunk.js": "/cava/static/js/2.61de0490.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8923fc59.js",
     "static/js/2.61de0490.chunk.js",
     "static/css/main.e87404cb.chunk.css",
-    "static/js/main.907140c9.chunk.js"
+    "static/js/main.6ada2d78.chunk.js"
   ]
 }

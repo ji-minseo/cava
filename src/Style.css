@@ -90,9 +90,14 @@ a:hover, a:active {
     /* transform: rotate(10deg); */
 }
 
-.object, .object img {
+.drag-wrapper, .drag-wrapper img {
     position: fixed;
     width:90px;
+}
+
+.drag-wrapper img:hover {
+    animation: rotate 2s linear;
+    cursor: grab;
 }
 
 
@@ -149,6 +154,15 @@ h1 {
     color: #fff;
     border: 3px solid #0D45BB;
 }
+
+@keyframes rotate {
+    from {
+      transform: rotate(0deg)
+    }
+    to {
+      transform: rotate(360deg)
+    }
+  }
 
 @media (max-width:768px) {
 

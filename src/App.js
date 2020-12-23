@@ -14,7 +14,7 @@ class App extends React.Component {
     let posx = Math.random() * (100 - 0) + 0;
     let posy = Math.random() * (100 - 0) + 0;
     console.log(posx);
-    let temp = document.getElementsByClassName("object");
+    let temp = document.getElementsByClassName("drag-wrapper");
     for(let i = 0; i < temp.length; i++) {
       temp[i].style.left = posx +"%";
       temp[i].style.top = posy +"%";

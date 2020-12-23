@@ -1,10 +1,13 @@
 import React from 'react';
+import Draggable from 'react-draggable';
 
 function Obj ({name}) {
     return (
-        <div className="object">
+        <Draggable>
+        <div className="drag-wrapper">
             <img src={process.env.PUBLIC_URL + name}/>
-            </div>
+        </div>
+        </Draggable>
 
     );
 }

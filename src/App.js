@@ -57,9 +57,6 @@ class App extends React.Component {
       
       </section>
 
-
-
-
       <Obj name="/01.png"/>
       <Obj name="/02.png"/>
       <Obj name="/03.png"/>

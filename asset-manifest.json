@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cava/static/css/main.e87404cb.chunk.css",
+    "main.js": "/cava/static/js/main.907140c9.chunk.js",
+    "main.js.map": "/cava/static/js/main.907140c9.chunk.js.map",
+    "runtime-main.js": "/cava/static/js/runtime-main.8923fc59.js",
+    "runtime-main.js.map": "/cava/static/js/runtime-main.8923fc59.js.map",
+    "static/js/2.61de0490.chunk.js": "/cava/static/js/2.61de0490.chunk.js",
+    "static/js/2.61de0490.chunk.js.map": "/cava/static/js/2.61de0490.chunk.js.map",
+    "static/js/3.d09a6eae.chunk.js": "/cava/static/js/3.d09a6eae.chunk.js",
+    "static/js/3.d09a6eae.chunk.js.map": "/cava/static/js/3.d09a6eae.chunk.js.map",
+    "index.html": "/cava/index.html",
+    "static/css/main.e87404cb.chunk.css.map": "/cava/static/css/main.e87404cb.chunk.css.map",
+    "static/js/2.61de0490.chunk.js.LICENSE.txt": "/cava/static/js/2.61de0490.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8923fc59.js",
+    "static/js/2.61de0490.chunk.js",
+    "static/css/main.e87404cb.chunk.css",
+    "static/js/main.907140c9.chunk.js"
+  ]
+}
